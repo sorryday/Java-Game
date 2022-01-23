@@ -19,7 +19,7 @@
 
 ## 3. Class 세부사항
 |클래스 OR 인터페이스|기능|
-|------|---|---|
+|------|---|
 |User|유저 생성 (추상)|
 |moneyUser|2장 섯다 유저|
 |chipUser|3장 섯다 유저|
@@ -31,7 +31,7 @@
 
 
 ## 4. 실제 게임 화면
-![3](https://user-images.githubusercontent.com/49806698/150674847-0aaac2b0-737b-4582-a8cf-e9d28ab3314e.png)
+![3](https://user-images.githubusercontent.com/49806698/150674949-f8f4ad67-ee93-4c83-85de-4a02880a9850.png)
 
 
 ![4](https://user-images.githubusercontent.com/49806698/150674850-312a664d-60ea-47dc-9925-ab33fe23e5a9.png)
@@ -48,4 +48,8 @@
 
 
 ## Prerequisite
+> import Project to Eclipse
+> 
+> Run
+> 
 > 게임방법은 "게임방법.txt" 참조
