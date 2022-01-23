@@ -48,8 +48,8 @@
 
 
 ## Prerequisite
-> import Project to Eclipse
+> 1. import Project to Eclipse
 > 
-> Run
+> 2. Run
 > 
 > 게임방법은 "게임방법.txt" 참조
