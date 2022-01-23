@@ -24,7 +24,7 @@
 |User|유저 생성 (추상)|
 |moneyUser|2장 섯다 유저|
 |chipUser|3장 섯다 유저|
-|userManager|유저 |
+|userManager|유저 관리|
 |computer|게임을 진행할 컴퓨터|
 |computerManager|컴퓨터 정보 관리|
 |mainpage|게임의 Main Page|
