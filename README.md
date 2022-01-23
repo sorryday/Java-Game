@@ -3,6 +3,7 @@
 
 #### Project nickname : KorTraditionalGame
 #### Project execution period : 2020.10.26 ~ 2020.11.25
+#### 자세한 게임방법은 "게임방법.txt" 참조
 -----------------------
 ## Description
 다양한 기능을 조합하고 연동할 수 있는 게임이라는 장르를 선택하고 모바일 게임 시장에서 준수한 순위를 유지하고 있는 카드게임(섯다)을 구현해 봄으로써 게임개발에 대한 매커니즘을 
@@ -48,8 +49,6 @@
 
 
 ## Prerequisite
->1. import Project to Eclipse
+> import Project to Eclipse
 > 
->2. Run
-> 
-> 자세한 게임방법은 "게임방법.txt" 참조
+> Run
